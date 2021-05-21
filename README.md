@@ -2,7 +2,7 @@
 
 ## 🌱 Lo que manejo
 
-[![JAVASCRIPT](https://img.shields.io/badge/-Javascript-ffff00?style=for-the-badge&labeClColor=black&logo=javascript&logoColor=61DBF)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JAVASCRIPT](https://img.shields.io/badge/-Javascript-https://www.youtube.com/channel/UC2uybb-GJRDZ3OrL1K6G5Qg?style=for-the-badge&labeClColor=black&logo=javascript&logoColor=000)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 <br>
 [![Typescript](https://img.shields.io/badge/-Typescript-188acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=188acc)](https://www.typescriptlang.org/)
 <br>
